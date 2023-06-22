@@ -1,4 +1,5 @@
 {
    "first":"this is a json file.",
-   "second":"End of the file."
+   "second":"End of the file.",
+   "edited":"added file."
 }
