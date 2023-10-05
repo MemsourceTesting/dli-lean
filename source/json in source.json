@@ -1,10 +1,4 @@
 {
    "first":"this is a json file.",
-   "second":"End of the file.",
-   "edit1":"edit 1",
-   "edid2":"edit 2",
-   "edit3":"edit 3",
-   "edit4":"edit 4",
-   "edit5":"edit 5",
-   "edit6":"edit 6"
+   "second":"End of the file."
 }
