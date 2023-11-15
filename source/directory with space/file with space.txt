@@ -1,3 +1,1 @@
 this is a text file.
-End of the file.
-completely new line of text.
