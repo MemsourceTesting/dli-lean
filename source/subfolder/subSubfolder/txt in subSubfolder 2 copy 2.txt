@@ -1,4 +1,3 @@
 this is a text file.
 End of the file.
-migr3.
-migr6.
+edit. 
