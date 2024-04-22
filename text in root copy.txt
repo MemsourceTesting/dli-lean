@@ -1,3 +1,0 @@
-this is a text file.
-inserted row
-End of the file.
