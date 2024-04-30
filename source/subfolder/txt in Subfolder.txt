@@ -1,6 +1,6 @@
 this is a text file.
 End of the file.
-edit
+edited line
 commit here.
 edit
 new line.
