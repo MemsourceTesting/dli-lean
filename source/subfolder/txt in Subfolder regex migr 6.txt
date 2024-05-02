@@ -1,7 +1,0 @@
-this is a text file.
-End of the file.
-edit
-commit here.
-edit
-new line.
-migr10.

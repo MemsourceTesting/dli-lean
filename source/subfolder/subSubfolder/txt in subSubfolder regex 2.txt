@@ -1,5 +1,0 @@
-this is a text file.
-End of the file.
-edit.
-after migration number 5.
-migr10.
