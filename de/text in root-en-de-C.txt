@@ -1,3 +1,0 @@
-das ist eine Textdatei.
-eingefügte Zeile
-Ende der Datei.

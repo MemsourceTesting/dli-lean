@@ -1,5 +1,0 @@
-this is a text file.
-End of the file. 
-edited.
-after migr1.
-new text.

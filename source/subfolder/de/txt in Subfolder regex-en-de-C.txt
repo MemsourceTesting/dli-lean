@@ -1,3 +1,0 @@
-das ist eine Textdatei.
-Ende der Datei.
-migr11 cleanup.
