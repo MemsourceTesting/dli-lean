@@ -1,5 +1,4 @@
 texttext
 More words.
 migration step 3.
-m6 here.
-m7 olala.
+migration step 7.
