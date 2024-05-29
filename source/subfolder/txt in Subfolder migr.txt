@@ -1,4 +1,0 @@
-this is a text file.
-End of the file.
-migrace
-asd
