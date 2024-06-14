@@ -1,4 +1,0 @@
-this is a text file.
-End of the file.
-rerun 1.
-add2
