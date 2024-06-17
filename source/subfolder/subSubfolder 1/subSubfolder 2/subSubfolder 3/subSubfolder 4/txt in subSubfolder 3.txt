@@ -1,4 +1,0 @@
-this is a text file.
-End of the file.
-add 1
-add 3
