@@ -1,7 +1,2 @@
 this is a text file.
 End of the file.
-asdasd
-sDASDAS
-aaaaaaa
-sssssss
-ddddddd
