@@ -1,0 +1,4 @@
+ovo je tekstualna datoteka.
+Kraj datoteke.
+aaaa
+bbbb
