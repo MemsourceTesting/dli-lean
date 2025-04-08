@@ -1,0 +1,4 @@
+toto je textový soubor.
+Konec souboru.
+aaaa
+bbbb
