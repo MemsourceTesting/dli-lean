@@ -1,0 +1,3 @@
+toto je textový soubor.
+Konec souboru.
+přidaný řádek
