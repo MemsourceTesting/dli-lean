@@ -2,5 +2,6 @@
    "first":"this is first line",
    "second":"second line",
    "added":"line number three",
-   "platform":"github"
+   "platform":"github",
+   "cjTest":"update1"
 }
